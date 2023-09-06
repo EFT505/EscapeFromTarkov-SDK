@@ -3,7 +3,7 @@
 
 This project is meant for the modders who want to work on custom assets for Escape From Tarkov.
 
-
+(456) Анна Бабак, escapefromtarkovkrsk@rambler.ru
 
 
 
