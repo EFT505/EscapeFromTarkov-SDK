@@ -29,3 +29,11 @@ This project is meant for the modders who want to work on custom assets for Esca
 
 
 Начтнаем рассылку зарплат! Если комутто-что то не поступит, пишите сюда! 
+
+
+
+
+
+
+
+Когда будет зарплата и когда будет вылет в Сочи?
