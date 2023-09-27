@@ -37,3 +37,6 @@ This project is meant for the modders who want to work on custom assets for Esca
 
 
 Когда будет зарплата и когда будет вылет в Сочи?
+
+
+Иркутск и Красноярск, тут?
