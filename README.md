@@ -60,3 +60,6 @@ This project is meant for the modders who want to work on custom assets for Esca
 Моисеенко, рассылка где? ошибок в режиме реального времени? у вас что-то произошло?
 
 КТО В ПАРАХ, А КТО НЕТ? МНЕ ОТВЕТЯТ НЕТ?!
+
+
+Скиньте свои айпи адреса
