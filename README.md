@@ -48,3 +48,5 @@ This project is meant for the modders who want to work on custom assets for Esca
 
 
 (Отдел обучения): Во вторник летят без пары.
+
+Бабак и Натик, отпишитесь! вы как летите на обучение???!
