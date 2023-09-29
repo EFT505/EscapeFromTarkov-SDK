@@ -45,3 +45,6 @@ This project is meant for the modders who want to work on custom assets for Esca
 Натик Юрий Олегович.
 
 отпишитесь тут, на гитхаб.
+
+
+(Отдел обучения): Во вторник летят без пары.
