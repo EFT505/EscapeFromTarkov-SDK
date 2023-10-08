@@ -5,7 +5,7 @@ This project is meant for the modders who want to work on custom assets for Esca
 
 9 октября.
 
-Здравчтвуйте! креативщикм и тестеры, есть вопросы?) давайте обсуждать!
+Здравчтвуйте! креативщики и тестеры, есть вопросы?) давайте обсуждать!
 
 
 
