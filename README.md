@@ -3,7 +3,9 @@
 
 This project is meant for the modders who want to work on custom assets for Escape From Tarkov.
 
-Сотруднический форум!!!
+9 октября.
+
+Здравчтвуйте! креативщикм и тестеры, есть вопросы?) давайте обсуждать!
 
 
 
