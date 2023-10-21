@@ -52,4 +52,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 
 16. rm -f ../github-unity-test/GitHubExtensionProject/Assets/Plugins/GitHub/Editor
 17. /verbosity:minimal /property:Configuration=$Configuration /target:$Target
+18. submodules/packaging/octorun/run.sh --path $DIR/octorun --out $DIR/src/GitHub.Api/Resources --source $DIR/src/GitHub.Api/Installer
 
