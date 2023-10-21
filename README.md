@@ -50,3 +50,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
   </Settings>
 </SolutionConfiguration>
 
+16. rm -f ../github-unity-test/GitHubExtensionProject/Assets/Plugins/GitHub/Editor
+
