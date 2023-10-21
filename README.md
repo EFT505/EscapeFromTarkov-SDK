@@ -25,4 +25,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 4.UnityProjects/EFT-SDK/Library/ScriptAssemblies/UnityEngine
 
 5. Any CPU =00000
+6. 
 
