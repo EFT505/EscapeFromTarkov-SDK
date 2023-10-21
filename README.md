@@ -60,4 +60,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 23.  xbuild /target:CommandLine
 24.  HasAttribute Name="System.Runtime.InteropServices.ComImport"
 25.  Entry DisplayName="Setup/Teardown Methods
+26.  ImplementsInterface Name="System.IDisposable"
 
