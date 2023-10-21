@@ -11,3 +11,6 @@ Escape From Tarkov SDK
 ERROR:
 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A755F945-F966-77C4-B60E-1AF472EE85DB}"
+
+
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
