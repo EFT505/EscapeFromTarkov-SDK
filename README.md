@@ -31,4 +31,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 9. xml version="1.0" encoding="utf-16"?
 10. Entry DisplayName="Setup/Teardown Methods
 11. Kind Order="Constructor"
+12. HasAttribute Name="NUnit.Framework.SetUpAttribute" Inherited="True"
 
