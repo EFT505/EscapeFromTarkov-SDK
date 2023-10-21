@@ -34,4 +34,19 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 12. HasAttribute Name="NUnit.Framework.SetUpAttribute" Inherited="True"
 13. Entry DisplayName="Test Methods" Priority="100"
 14. Kind Is="Delegate"
+15. ﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>True</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>submodules\octokit.net\Octokit\Octokit-35.csproj</Value>
+      <Value>src\UnitTests\UnitTests.csproj</Value>
+      <Value>src\IntegrationTests\IntegrationTests.csproj</Value>
+      <Value>submodules\dotnet-httpClient35\System.Net.Http\System.Net.Http-net_3_5.csproj</Value>
+      <Value>src\packaging\CopyLibrariesToExternalTestProject\CopyLibrariesToExternalTestProject.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+    <UseBuildPlatform>AnyCPU</UseBuildPlatform>
+    <UseCPUArchitecture>x64</UseCPUArchitecture>
+  </Settings>
+</SolutionConfiguration>
 
