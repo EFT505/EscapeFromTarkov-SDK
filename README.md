@@ -68,4 +68,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 31.  HasAttribute Name="System.Reflection.NonSerializedAttribute"
 32.  Entry.SortBy
 33.  Name Is="disposed"
+34.  Kind Is="Method"
 
