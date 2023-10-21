@@ -28,4 +28,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 6. Any CPU.Build.0
 7. HideSolutionNode = FALSE
 8. (ProjectConfigurationPlatforms) =000
+9. xml version="1.0" encoding="utf-16"?
 
