@@ -27,4 +27,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 5. Any CPU =00000
 6. Any CPU.Build.0
 7. HideSolutionNode = FALSE
+8. (ProjectConfigurationPlatforms) =000
 
