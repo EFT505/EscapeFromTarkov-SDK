@@ -51,4 +51,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 </SolutionConfiguration>
 
 16. rm -f ../github-unity-test/GitHubExtensionProject/Assets/Plugins/GitHub/Editor
+17. /verbosity:minimal /property:Configuration=$Configuration /target:$Target
 
