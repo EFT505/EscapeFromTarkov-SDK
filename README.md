@@ -19,3 +19,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 
 
 Unity.AssetBundleBrowser.Editor
+
+{C0F18735-8706-71BD-2777-C82815607895}
