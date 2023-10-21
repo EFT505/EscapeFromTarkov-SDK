@@ -64,4 +64,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 27.  Entry DisplayName="All other members"
 28.  TypePattern.Match
 29.  Entry.Match
+30.  Kind Order="Constant Field"
 
