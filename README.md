@@ -70,4 +70,6 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 33.  Name Is="disposed"
 34.  Kind Is="Method"
 35.  <Value>submodules\octokit.net\Octokit\Octokit-35.csproj</Value>
+36. <Value>src\packaging\CopyLibrariesToExternalTestProject\CopyLibrariesToExternalTestProject.csproj</Value>
+
 
