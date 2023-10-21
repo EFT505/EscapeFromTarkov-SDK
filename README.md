@@ -13,8 +13,6 @@ ERROR:
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A755F945-F966-77C4-B60E-1AF472EE85DB}"
 
 
-RootNamespace></RootNamespace>
-
-<AppDesignerFolder>Properties</AppDesignerFolder>
+C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 
 
