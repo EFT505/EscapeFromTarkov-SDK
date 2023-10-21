@@ -54,4 +54,5 @@ C:\Program Files\Unity\Hub\Editor\2019.4.39f1\Editor\Data\Tools\RoslynScripts
 17. /verbosity:minimal /property:Configuration=$Configuration /target:$Target
 18. submodules/packaging/octorun/run.sh --path $DIR/octorun --out $DIR/src/GitHub.Api/Resources --source $DIR/src/GitHub.Api/Installer
 19. $DIR/submodules/packaging/unitypackage/run.sh --path $DIR/unity/PackageProject --out $DIR
+20. ${version}.${commitcount}-${commit}
 
